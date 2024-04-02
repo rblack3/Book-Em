@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct midtermApp: App {
+struct BookEm: App {
 
     var body: some Scene {
         WindowGroup {
